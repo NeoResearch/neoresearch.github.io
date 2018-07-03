@@ -1,6 +1,6 @@
 ## Welcome to NeoResearch.io
 
-NeoResearch is an open-source community focused in developing cutting-edge technologies for NEO blockchain.
+NeoResearch is an open-source community focused in developing cutting-edge technologies for [NEO](https://neo.org/) blockchain.
 NEO ecosystem comprises several projects from many development groups worldwide, including secure Wallets for users interacting with the blockchain, compilers for NeoVM in different programming languages and efficient consensus algorithms for blockchain management.
 
 NeoResearch **is not a private company nor any form of legally constituted entity**, it's just a bunch of people crazy by blockchain technology and the Smart Economy revolution.
