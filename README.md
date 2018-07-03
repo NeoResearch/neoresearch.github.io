@@ -4,7 +4,7 @@ NeoResearch is an open-source community focused in developing cutting-edge techn
 NEO ecosystem comprises several projects from many development groups worldwide, including secure Wallets for users interacting with the blockchain, compilers for NeoVM in different programming languages and efficient consensus algorithms for blockchain management.
 
 NeoResearch **is not a private company nor any form of legally constituted entity**, it's just a bunch of people crazy by blockchain technology and the Smart Economy revolution.
-Donations to the group are managed by NeoResearch Council members and can be distributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
+Donations to the group are managed by [NeoResearch Council](https://github.com/NeoResearch/governance) members and can be distributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integrations between different tools that increase overall user experience and simplify development on NEO);
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
 - Conducted studies and assessment of state-of-the-art projects, including **Benchmarks** that could lead to platform improved **Efficiency** (projects that propose/test novel high performance tools/techniques also fit this topic);
