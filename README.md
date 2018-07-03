@@ -8,7 +8,7 @@ Donations to the group are managed by [NeoResearch Council](https://github.com/N
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integrations between different tools that increase overall user experience and simplify development on NEO);
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
 - Conducted studies and assessment of state-of-the-art projects, including **Benchmarks** that could lead to platform improved **Efficiency** (projects that propose/test novel high performance tools/techniques also fit this topic);
-- Standardization, creation and organization of **Learning Materials**, that could help newcomers to easily develop on NEO (tutorials, written and audiovideo materials, examples and coding templates, specially in different languages...).
+- Standardization, creation and organization of [Learning Materials](https://github.com/NeoResearch/learning-examples), that could help newcomers to easily develop on NEO (tutorials, written and audiovideo materials, examples and coding templates, specially in different languages...).
 
 Community is welcome to join us as a [Public Member](https://github.com/orgs/NeoResearch/people) and participate in our [Discord Channel](https://discord.gg/gTEddmq).
 
