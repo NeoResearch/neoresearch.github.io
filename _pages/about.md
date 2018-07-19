@@ -27,15 +27,6 @@ Donations to the group are managed by [NeoResearch Council](https://github.com/N
 
 Community is welcome to join us as a [Public Member](https://github.com/orgs/NeoResearch/people) and participate in our [Discord Channel](https://discord.gg/gTEddmq).
 
-## Our team
-
-Contributors can be found at [NeoResearch public members](https://github.com/orgs/NeoResearch/people)
-Our team of contributors already counted with researchers and students from different levels of studies and backgrounds.
-
-**OptFrame current maintainers:**
-
-{% include feature_row %}
-
 ## Português
 
 Membros da América do Sul e América Latina estão especialmente convidados a fazer parte desta transformação tecnológica.
