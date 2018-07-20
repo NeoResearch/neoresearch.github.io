@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to NeoResearch.io"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Developing groundbreaking research for Neo Blockchain Ecosystem."
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
