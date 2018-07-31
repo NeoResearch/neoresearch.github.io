@@ -13,7 +13,7 @@ toc: true
 
 <p align="center">
     <img
-      src="/assets/images/NeoResearch-Logo.png"
+      src="/assets/images/logo/pionner-logo/NeoResearch-Logo.png"
       width="125px;">
 </p>
 
