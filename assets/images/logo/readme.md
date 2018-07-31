@@ -12,4 +12,5 @@ The next steps should be followed for the inclusion of your logo in this reposit
   - *Authors*;
   - *Logo inspiration*;
   - *New reward address (nice insights might receive some rewards)*
+  - License should be MIT or equivalent.
 4. Include any logo format you want, such as **.svg format + other ones (.jpeg; .png)**;
