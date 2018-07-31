@@ -9,8 +9,8 @@ The next steps should be followed for the inclusion of your logo in this reposit
 1. Clone this repository (or directly use the GitHub Pull Request system);
 2. Create a folder inside `logo` with the name of your `*logo-title*`;
 3. Include a `readme.md` with:
-  - *Authors*;
-  - *Logo inspiration*;
-  - *New reward address (nice insights might receive some rewards)*
+  - Authors;
+  - Logo inspiration;
+  - New reward address (nice insights might receive some rewards);
   - License should be MIT or equivalent.
 4. Include any logo format you want, such as **.svg format + other ones (.jpeg; .png)**;
