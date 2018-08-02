@@ -1,5 +1,9 @@
 
-![alt text](https://github.com/NeoResearch/neoresearch.github.io/blob/master/assets/images/logo/thirdprize-logo/leaf%20logo.svg "Logo Title Text 1")
+<p align="center">
+    <img
+      src="/assets/images/logo/thirdprize-logo/leaf%20logo.png"
+      width="125px;">
+</p>
 
 Author: Shaun Pryszlak @thirdprize
 License is MIT or equivalent
