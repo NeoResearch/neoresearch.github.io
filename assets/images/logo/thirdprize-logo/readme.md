@@ -1,4 +1,7 @@
-Logo link: https://github.com/NeoResearch/neoresearch.github.io/blob/master/assets/images/logo/thirdprize-logo/leaf%20logo.svg
+Logo: 
+![alt text](https://github.com/NeoResearch/neoresearch.github.io/blob/master/assets/images/logo/thirdprize-logo/leaf%20logo.svgg "Logo Title Text 1")
+
+
 
 Author: Shaun Pryszlak @thirdprize
 License is MIT or equivalent
