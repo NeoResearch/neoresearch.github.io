@@ -18,5 +18,7 @@
 </p>
 
 Author: Edge
+
 Logo inspiration: NeoResearch, thirdprize
+
 Address: AHKEnMJTU7DYmszng7MdA4w2X8UcPcnXVp
