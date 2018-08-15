@@ -1,6 +1,12 @@
 Author: Shaun Pryszlak @thirdprize
 License is MIT or equivalent
 
-Logo in SVG and PNG format.
+Four logos
 
-The leaf was part of the spec and the circuit board element made it look a bit modern.  
+![alt text](Filled/logo.png "RGB logo")
+![alt text](GreenLeaf/logo.png "RGB logo")
+![alt text](Outline/logo.png "RGB logo")
+![alt text](RGB/logo.png "RGB logo")
+
+
+GreenLeaf is probably my favourite.
