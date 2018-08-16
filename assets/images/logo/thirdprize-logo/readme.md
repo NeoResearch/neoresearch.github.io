@@ -1,4 +1,7 @@
-Author: Shaun Pryszlak @thirdprize
+Author: Shaun Pryszlak 
+Discord: @thirdprize
+email: thirdprize@gmail.com
+
 License is MIT or equivalent
 
 Four logos
