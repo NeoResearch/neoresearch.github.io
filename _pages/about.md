@@ -16,7 +16,7 @@ NeoResearch **is not a private company nor any form of legally constituted entit
 
 ## Directions for contributing
 
-Donations to the group are managed by [NeoResearch Council](https://github.com/NeoResearch/governance) members and can be distributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
+Donations to the group are managed by [NeoResearch Council](https://github.com/NeoResearch/governance) members and can be redistributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integrations between different tools that increase overall user experience and simplify development on NEO);
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
