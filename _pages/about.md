@@ -13,6 +13,14 @@ NEO ecosystem comprises several projects from many development groups worldwide,
 
 NeoResearch **is not a private company nor any form of legally constituted entity**, it's just a bunch of people crazy by blockchain technology and the Smart Economy revolution.
 
+## Key projects
+
+* [NeoCompiler Eco](https://neocompiler.io/), an ecosystem of Compiers RPC servers and several tools for testing and analyzing smart contracts;
+* [SMACCO - SMart ACcount COmposer](https://neoresearch.io/smacco), a simple tool for composing Neo Smart Accounts;
+* [Neo AVM optimizer](https://github.com/NeoResearch/neo-avm-optimizer), minimization of opcodes (NOP removal, unreachable code detection, ...);
+* [Neo tests](https://github.com/NeoResearch/neo-tests), several tools for testing, building, deploying nodes and even drawing graphs of Neo Cosensus behavior;
+* [Neo-Sim-JS](https://github.com/NeoResearch/NeoSim.js), Neo AVM simulator on JavaScript (not fully completed);
+* [Learning examples](https://github.com/NeoResearch/learning-examples), an initiative of NeoResearch for learning material and examples for NEO development both for users, developers and academic students.
 
 ## Directions for contributing
 
