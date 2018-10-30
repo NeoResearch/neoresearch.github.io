@@ -24,7 +24,7 @@ NeoResearch **is not a private company nor any form of legally constituted entit
 
 ## Directions for contributing
 
-The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed according to precisely made contributions. NeoResearch is not the owner of any funds, but acts as a bridge, in this sense, funds in possession of the community can still be claimed by Neo Foundation until they are redistributed. Donations to the group are managed by [NeoResearch Council](https://github.com/NeoResearch/governance) members and can be redistributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
+The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed according to precisely made contributions. NeoResearch does not own funds, but acts as a bridge for redistributing the funds provided in [Neo's whitepaper](http://docs.neo.org/en-us/whitepaper.html). Donations to the group are managed by [NeoResearch Council](https://github.com/NeoResearch/governance) members and can be redistributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integration between different tools that increase overall user experience and simplify development on NEO);
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
