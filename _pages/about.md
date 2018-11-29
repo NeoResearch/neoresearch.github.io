@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "Welcome to NeoResearch.io"
 excerpt: "Developing groundbreaking research for Neo Blockchain Ecosystem."
 # last_modified_at: 2018-10-30T12:04:24-04:00

@@ -20,6 +20,8 @@ foo:
 
 # main links
 main:
+  - title: "About"
+    url: /about/
   - title: "News and events"
     url: /year-archive/
   - title: "Reports"
