@@ -1,6 +1,8 @@
 Author: Shaun Pryszlak 
 Discord: @thirdprize
 email: thirdprize@gmail.com
+Public Address: AdDDW6RBsvmZ2YAD6FLXS3tjiafP5onSPZ
+
 
 License is MIT or equivalent
 
