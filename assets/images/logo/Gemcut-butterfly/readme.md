@@ -1,5 +1,8 @@
 Authors: Alex Gemcut & gemcut.io team
+
 License is MIT or equivalent
+
+Donations: AdomXBAkMYk2AFbzwdyvzdiXGqsNWXh6Jm
 
 
 <p align="center">
