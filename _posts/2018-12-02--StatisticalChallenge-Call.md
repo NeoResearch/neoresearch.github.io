@@ -45,6 +45,7 @@ Basically, the competition will involve:
   - Participants are encouraged to use [NeoCompiler Eco(system)](https://github.com/NeoResearch/neocompiler-eco) for playing with proof-of-bullets tests and report their finding. However, other types of analyses are welcomed;
     - Up to 20 reports that contains concise information will be rewarded with, at least, 10 NEO.
   - Modification to the Neo clients can be done by using the scripts available at [neo-tests repository](https://github.com/NeoResearch/neo-tests/tree/master/docker-build-neo-cli).
+  - We also encourage the use of other platforms for assisting the findings of your statistical analyses, such as [neo-local](https://github.com/CityOfZion/neo-local) or [neo-one](https://github.com/neo-one-suite/neo-one);
   - Our team will revise all entries and, if necessary, forward crossed experiments to be replicated by participants.
   - The call focused on the following topics (but not limited to):
       - Statistics about the Neo-VM, opcode executions;
