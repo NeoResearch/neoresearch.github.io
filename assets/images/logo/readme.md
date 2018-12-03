@@ -1,9 +1,12 @@
 # **NeoResearch logo**
 
-NeoResearch is looking for redesigning its logo, in order to improve and harmonize it in accordance with better designing standards.
+NeoResearch has been looking for redesigning its logo, in order to improve and harmonize it in accordance with better designing standards.
 In a first moment, different members of *NEO design Discord channel* suggested some innovative designs.
-Thus, everyone is invited to share ideas and inspirations for the new logo.
-The next steps should be followed for the inclusion of your logo in this repository:
+Thus, everyone was invited to share ideas and inspirations for the new logo.
+Around 29th November we have decided about our definetive [logo](https://neoresearch.io/logo/neoresearch-logo-journey/).
+
+However, any designer should fell to PR their ideas and contributions.
+The steps that should e followed for the inclusion of logo proposals in this repository are:
 
 ## **Guidelines for including your logo:**
 1. Clone this repository (or directly use the GitHub Pull Request system);
