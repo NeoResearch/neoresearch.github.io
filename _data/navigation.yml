@@ -22,12 +22,12 @@ foo:
 main:
   - title: "About"
     url: /about/
-  - title: "News and events"
+  - title: "Posts"
     url: /year-archive/
-  - title: "Reports"
-    url: /reports/
-  - title: "Sitemap"
-    url: /sitemap/
+#  - title: ""
+#    url: /reports/
+#  - title: "Sitemap"
+#    url: /sitemap/
 
 # sidebar navigation list sample
 sidebar-sample:
