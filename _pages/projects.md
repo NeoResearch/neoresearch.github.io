@@ -20,6 +20,13 @@ feature_row3:
     url: "https://neoresearch.io/smacco/"
     btn_label: "Online SMACCO"
     btn_class: "btn--primary"
+feature_dappgram:
+  - alt: "placeholder image 2"
+    title: "Neo Dappgram"
+    excerpt: 'Drawing of fluxograms for Neo AVM'
+    url: "https://neoresearch.io/dappgram/#/"
+    btn_label: "Online SMACCO"
+    btn_class: "btn--primary"    
 ---
 
 ## Key projects
@@ -31,6 +38,17 @@ feature_row3:
 * [SMACCO - SMart ACcount COmposer](https://neoresearch.io/smacco), a simple tool for composing Neo Smart Accounts;
 
 {% include feature_row id="feature_row3" type="right" %}
+
+* [Neo Dappgram](https://neoresearch.io/dappgram/#/), providing fluxogram diagram for Neo Dapps. This allows public drawing of fluxograms for Neo AVM.
+
+<div style="text-align:center">
+<img src="/assets/images/dappgram.png" alt="dappgram" style="width:100px;"/>
+</div>
+
+{% include feature_row id="feature_dappgram" type="center" %}
+
+
+
 
 * [Neo AVM optimizer](https://github.com/NeoResearch/neo-avm-optimizer), minimization of opcodes (NOP removal, unreachable code detection, ...);
 * [Neo tests](https://github.com/NeoResearch/neo-tests), several tools for testing, building, deploying nodes and even drawing graphs of Neo Cosensus behavior;
