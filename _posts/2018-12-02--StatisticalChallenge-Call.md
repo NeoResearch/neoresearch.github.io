@@ -1,5 +1,5 @@
 ---
-title:  "Moving towards statistical comprehension - A NeoResearch promoted Competition/Challenge"
+title:  "Moving towards statistical comprehension - A NeoResearch promoted scientific reflection"
 last_modified_at: 2018-12-03T16:01:04-04:00
 categories:
   - challenges
