@@ -43,7 +43,9 @@ Basically, the competition will involve:
 
 * Time to be creative:
   - Participants are encouraged to use [NeoCompiler Eco(system)](https://github.com/NeoResearch/neocompiler-eco) for playing with proof-of-bullets tests and report their finding. However, other types of analyses are welcomed;
-    - Up to 20 reports that contains concise information will be rewarded with, at least, 10 NEO.
+    - The three best reports will be awarded with 250, 100 and 50 NEO each;
+    - Up to 20 reports that contains concise information will be rewarded with, at least, 10 NEO;
+    - Outstanding incentives and other prizes may also be awarded.
   - Modification to the Neo clients can be done by using the scripts available at [neo-tests repository](https://github.com/NeoResearch/neo-tests/tree/master/docker-build-neo-cli).
   - We also encourage the use of other platforms for assisting the findings of your statistical analyses, such as [neo-local](https://github.com/CityOfZion/neo-local) or [neo-one](https://github.com/neo-one-suite/neo-one);
   - Our team will revise all entries and, if necessary, forward crossed experiments to be replicated by participants.
@@ -55,8 +57,8 @@ Basically, the competition will involve:
       - Statistics related Neo blockchain storage data;
       - Statistics about the use of current smart contracts;
       - Among others
-Finally, the three best reports will be awarded with 250, 100 and 50 NEO each.
-Outstanding incentives and other prizes may also be awarded.
+
+
 
 Participants are encouraged to release their researching spirit, being critic and, at the same time, ["blinded"](https://en.wikipedia.org/wiki/Blinded_experiment).
 
