@@ -26,13 +26,14 @@ toc: true
 
 ## Our mission
 
-[NeoResearch](http://neoresearch.io) is an independent community, which receives support, nowadays, exclusively, from the Neo Foundation.
+[NeoResearch](http://neoresearch.io) is an independent community, which receives support, nowadays, exclusively, from the Neo Foundation,
+in forms of redistributing/donating some of Neo Whitepaper reserved funds according to contributions aligned with our goals.
 
 The main goal is to assist the Neo community with the development of groundbreaking research for the Neo Blockchain Ecosystem, testing, analyzing and investigating different components and tools developed and in use by the community.
 
 ## Challenge brief description
 
-The focus of this competition will be limited to awarding concise statical reports, focused on Neo blockchain bottlenecks and interesting time aspects.
+The focus of this competition will be limited to awarding concise statistical reports, focused on Neo blockchain bottlenecks and interesting time aspects.
 However, participants are encouraged to go further. We do not discard the possibility of increasing the reward for outstanding findings.
 
 NeoResearch team will do their best to ensure that a wide public can participate in the competition.
