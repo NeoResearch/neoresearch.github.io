@@ -9,7 +9,7 @@ header:
       url: "/about"
 excerpt: >
   Developing groundbreaking research <br />
-  for <font color="#00e500">Neo</font> Blockchain Ecosystem.
+  for <font color="#00e500">Neo</font> Blockchain Ecosystem. <br /><br /><br />
 feature_row:
   - image_path: /assets/images/logo/Gemcut-butterfly/butterfly-full.png
     alt: "customizable"
@@ -38,9 +38,29 @@ feature_row:
     excerpt: ""
     url: "https://neonewstoday.com/general/introducing-vitor-and-igor-coelho-of-neoresearch/"
     btn_class: "btn--primary"
-    btn_label: "NeoNewsToday"  
+    btn_label: "NeoNewsToday"
+feature_row2:
+  - image_path: /assets/images/neocompiler.png
+    alt: "NeoCompiler"
+    title: "NeoCompiler Eco"
+    excerpt: 'NeoCompiler Eco - Easy way to code and test your Smart Contracts'
+    url: "https://neocompiler.io/#/"
+    btn_label: "Try it!"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/smacco.png
+    alt: "placeholder image 2"
+    title: "SMACCO"
+    excerpt: 'The SMart ACcount COmposer for NEO Blockchain'
+    url: "https://neoresearch.io/smacco/"
+    btn_label: "Online SMACCO"
+    btn_class: "btn--primary"
 
 
 ---
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
