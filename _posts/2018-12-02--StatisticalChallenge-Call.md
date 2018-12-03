@@ -26,7 +26,7 @@ toc: true
 
 ## Challenge brief description
 
-Following our [pre-announce](/challenges/PreAnnounce-StatisticalChallenge/) of this challenge,
+Following our [pre-announce](/challenges/StatisticalChallenge-PreAnnounce/) of this challenge,
 this competition will be limited to award concise statistical reports, focused on Neo blockchain bottlenecks and interesting time aspects.
 However, participants are encouraged to go further.
 We do not discard the possibility of increasing the reward for outstanding findings, in particular,
