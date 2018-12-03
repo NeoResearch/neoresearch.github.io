@@ -61,6 +61,6 @@ Participants are encouraged to release their researching spirit, being critic an
 
 ### Expected deadlines
 
-1. Registration will be open from xxx of December, 2018 in the xxx [forms](link);
+1. Registration will be open from 29th of December, 2018 in the xxx [forms](link);
 1. First round of reports are expected to be submitted by the end of March, 2019;
 1. Prizes will be awarded in the beginning of May.

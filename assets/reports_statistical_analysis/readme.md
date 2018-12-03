@@ -1,15 +1,9 @@
 # **NeoResearch -- Moving towards statistical comprehension**
 
 <p align="center">
-<style>
-    img {
-      border-radius: 50%;
-    }
-</style>    
     <img
       src="https://raw.githubusercontent.com/NeoResearch/neoresearch.github.io/master/assets/images/logo/Gemcut-butterfly/butterfly-05-final.png"
       width="125px;" >
-
 </p>
 
 <h1 align="center"></h1>
