@@ -61,6 +61,9 @@ Participants are encouraged to release their researching spirit, being critic an
 
 ### Expected deadlines
 
-1. Registration will be open from 29th of December, 2018 in the xxx [forms](link);
+1. Registration will be open from 29th of December, 2018 in the [Google forms](https://goo.gl/forms/BMcfW7uDTpfLTTyo1);
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbV75jywaKwbZsuK9XWtfBDVlS3Numz0BS46kNytkfwryrFQ/viewform?embedded=true" width="640" height="1451" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 1. First round of reports are expected to be submitted by the end of March, 2019;
 1. Prizes will be awarded in the beginning of May.
