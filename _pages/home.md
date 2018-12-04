@@ -6,10 +6,10 @@ header:
   overlay_image: /assets/images/logo/Gemcut-butterfly/butterfly-banner.png
   actions:
     - label: "About us"
-      url: "/about"
+      url: "/about/"
 excerpt: >
-  Developing groundbreaking research <br />
-  for <font color="#00e500">Neo</font> Blockchain Ecosystem. <br /><br /><br />
+  Developing groundbreaking research and tools <br />
+  for <font color="#00e500">Neo</font> Blockchain Ecosystem. <br /><br /><br /><br /><br /><br />
 feature_row:
   - image_path: /assets/images/logo/Gemcut-butterfly/butterfly-full.png
     alt: "customizable"

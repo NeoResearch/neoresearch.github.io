@@ -20,11 +20,12 @@ NeoResearch team has been mainly focusing on: NeoCompiler Eco Improvements; Cons
 More details of some of our projects can be seen [here](/projects/), while other contributions are directed submitted on [neo-project core github](https://github.com/neo-project), as well as in specific discussions sessions on Discord, Reddit and other academic events or meetups.
 
 In order to achieve our goals of making Neo ecosystem a top scientifically engaged Blockchain, NeoResearch tries to engage members and contributors to focus on cutting-edge and precise contributions to the Neo Core libraries.
-In this sense, we encourage members to work in partnership with [Neo Core developers](https://github.com/orgs/neo-project/people), as well as connected with other developers communities, such as: [City Of Zion](http://cityofzion.io/), [NewEconoLabs](https://nel.group/), [AmazoNeo](https://amazoneo.la/) and [SPCC Neo](https://nspcc.ru/).
+In this sense, we encourage members to work in partnership with [Neo Core developers](https://github.com/orgs/neo-project/people), as well as connected with other developers communities, such as: [NGD](https://github.com/neo-ngd), [City Of Zion](http://cityofzion.io/), [NewEconoLabs](https://nel.group/), [AmazoNeo](https://amazoneo.la/) and [SPCC Neo](https://nspcc.ru/).
 
 ## Directions for contributing
 
-The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed according to precisely made contributions. NeoResearch does not own funds, but acts as a bridge for redistributing the funds provided in [Neo's whitepaper](http://docs.neo.org/en-us/whitepaper.html). Donations to the group are managed following our [governance basic rules](https://github.com/NeoResearch/governance) and can be redistributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
+The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed according to precisely made contributions. NeoResearch does not own funds, but acts as a bridge for redistributing part of the funds provided in [Neo's whitepaper](http://docs.neo.org/en-us/whitepaper.html).
+Donations to the group are managed following our [governance basic rules](https://github.com/NeoResearch/governance), and can be redistributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integration between different tools that increase overall user experience and simplify development on NEO);
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
