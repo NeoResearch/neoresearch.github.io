@@ -24,7 +24,7 @@ In this sense, we encourage members to work in partnership with [Neo Core develo
 
 ## Directions for contributing
 
-The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed according to precisely made contributions. NeoResearch does not own funds, but acts as a bridge for redistributing part of the funds provided in [Neo's whitepaper](http://docs.neo.org/en-us/whitepaper.html).
+The NEO Foundation provides support to the NeoResearch community, in the form of NEO rewards (and, consequently, generated GAS and airdrops), which are redistributed according to precisely made contributions. NeoResearch does not own funds, but acts as a bridge for redistributing part of the funds provided in [Neo's whitepaper](http://docs.neo.org/en-us/whitepaper.html).
 Donations to the group are managed following our [governance basic rules](https://github.com/NeoResearch/governance), and can be redistributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integration between different tools that increase overall user experience and simplify development on NEO);
