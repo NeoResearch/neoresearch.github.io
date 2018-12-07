@@ -2,14 +2,15 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/logo/Gemcut-butterfly/butterfly-banner.png
   actions:
-    - label: "About us"
-      url: "/about/"
+    - label: "<i class='fa fa-globe'></i> About"
+      url: "/about/"  
+title: Groundbreaking research
 excerpt: >
-  Developing groundbreaking research and tools <br />
-  for <font color="#00e500">Neo</font> Blockchain Ecosystem. <br /><br /><br /><br /><br /><br />
+  for <font color="#00e000">NEO</font> Blockchain Ecosystem <br /> <br /><br /><br /><br /><br />
 feature_row:
   - image_path: /assets/images/logo/Gemcut-butterfly/butterfly-full.png
     alt: "customizable"
