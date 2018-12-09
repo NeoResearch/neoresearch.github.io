@@ -11,8 +11,7 @@ header:
 title: Groundbreaking research
 excerpt: >
   for <font color="#00e000">NEO</font> Blockchain Ecosystem <br /><br /><br /><br /><br /><br />
-  <a href="/about/" class="btn btn--light-outline btn--small"><i class='fa fa-globe'></i> About</a>
-
+# <a href="/about/" class="btn btn--light-outline btn--small"><i class='fa fa-globe'></i> About</a> -->
 
 feature_row:
   - image_path: /assets/images/logo/Gemcut-butterfly/butterfly-full.png
