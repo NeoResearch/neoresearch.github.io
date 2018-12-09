@@ -1,26 +1,15 @@
 ---
 permalink: /about/
-title: "Welcome to NeoResearch.io"
+title: "NeoResearch community"
 excerpt: "Developing groundbreaking research for Neo Blockchain Ecosystem."
 # last_modified_at: 2018-10-30T12:04:24-04:00
 toc: true
 ---
 
-## NeoResearch community
-
 NeoResearch is an open-source community focused in developing cutting-edge technologies for [NEO](https://neo.org/) blockchain.
 NEO ecosystem comprises several projects from many development groups worldwide, including secure Wallets for users interacting with the blockchain, compilers for NeoVM in different programming languages and efficient consensus algorithms for blockchain management.
 
 NeoResearch **is not a private company nor any form of legally constituted entity**, it's just a bunch of people crazy by blockchain technology and the Smart Economy revolution.
-
-## Key projects
-
-NeoResearch team has been mainly focusing on: NeoCompiler Eco Improvements; Consensus optimizations strategies and High-performance Neo-VM.
-
-More details of some of our projects can be seen [here](/projects/), while other contributions are directed submitted on [neo-project core github](https://github.com/neo-project), as well as in specific discussions sessions on Discord, Reddit and other academic events or meetups.
-
-In order to achieve our goals of making Neo ecosystem a top scientifically engaged Blockchain, NeoResearch tries to engage members and contributors to focus on cutting-edge and precise contributions to the Neo Core libraries.
-In this sense, we encourage members to work in partnership with [Neo Core developers](https://github.com/orgs/neo-project/people), as well as connected with other developers communities, such as: [NGD](https://github.com/neo-ngd), [City Of Zion](http://cityofzion.io/), [NewEconoLabs](https://nel.group/), [AmazoNeo](https://amazoneo.la/) and [SPCC Neo](https://nspcc.ru/).
 
 ## Directions for contributing
 
@@ -31,6 +20,10 @@ Donations to the group are managed following our [governance basic rules](https:
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
 - Conducted studies and assessment of state-of-the-art projects, including **Benchmarks** that could lead to platform improved **Efficiency** (projects that propose/test novel high performance tools/techniques also fit this topic);
 - Standardization, creation and organization of [Learning Materials](https://github.com/NeoResearch/learning-examples), that could help newcomers to easily develop on NEO (tutorials, written and audiovideo materials, examples and coding templates, specially in different languages...).
+
+## Key projects
+
+More details of some of our projects can be seen [here](/projects/).
 
 ## Join us
 
