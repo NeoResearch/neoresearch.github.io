@@ -14,6 +14,13 @@ excerpt: >
 # <a href="/about/" class="btn btn--light-outline btn--small"><i class='fa fa-globe'></i> About</a> -->
 
 feature_row:
+  - image_path: /assets/images/yellowPaperCover.png
+    alt: "customizable"
+    title: "Community Yellow Paper: A Technical Specification for NEO Blockchain"
+    excerpt: "Check last technical updates at [https://github.com/NeoResearch/yellowpaper/](https://github.com/NeoResearch/yellowpaper/)"
+    url: /assets/yellowpaper/yellow_paper.pdf
+    btn_class: "btn--primary"
+    btn_label: "Download PDF"
   - image_path: /assets/images/logo/Gemcut-butterfly/butterfly-full.png
     alt: "customizable"
     title: "The journey of our logo and values"
