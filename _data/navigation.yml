@@ -24,7 +24,7 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Posts"
+  - title: "News"
     url: /year-archive/
 #  - title: ""
 #    url: /reports/
