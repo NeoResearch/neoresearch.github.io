@@ -26,8 +26,6 @@ During the presentation they guided a consensus simulation with three more team 
 The video is also available on: [https://youtu.be/DjSSvE7OmOI?t=23412](https://youtu.be/DjSSvE7OmOI?t=23412)
 
 
-
-
 ![NeoResearchTeam](/assets/images/DevConTeam1.jpg)
 
 NEO DevCon 2019:
