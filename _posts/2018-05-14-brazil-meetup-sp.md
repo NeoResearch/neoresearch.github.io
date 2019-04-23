@@ -17,6 +17,6 @@ The meetup had the presence of Tamar Salant and Malcolm Lerider from NEO Team, I
 
 [https://www.bomesp.org/](https://www.bomesp.org/)
 
-[https://ccbc.org.br/camara-comercio-brasil-canada/]{https://ccbc.org.br/camara-comercio-brasil-canada/}
+[https://ccbc.org.br/camara-comercio-brasil-canada/](https://ccbc.org.br/camara-comercio-brasil-canada/)
 
 # São Paulo Meetup - Neo and BOMESP
