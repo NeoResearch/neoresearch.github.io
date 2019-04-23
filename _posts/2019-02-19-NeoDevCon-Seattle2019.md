@@ -23,7 +23,10 @@ The panel is available on the NEO Live Streaming video on YouTube: [https://yout
 In the second day Igor and Vitor gave a presentation about: Perspectives on Cryptography, Consensus Mechanisms and high-performance computing for NEO 3.0.
 During the presentation they guided a consensus simulation with three more team members,, which illustrated in a simple way how Consensus it works.
 
-The video is also available on: [https://youtu.be/DjSSvE7OmOI?t=23412](https://youtu.be/DjSSvE7OmOI?t=23412)
+The video presentation is also available on: [https://youtu.be/DjSSvE7OmOI?t=23412](https://youtu.be/DjSSvE7OmOI?t=23412)
+
+Vitor Nazário and Igor Machado gave an interview to Brett Rhodes from the NEO News Today. Let's check it here:
+[https://www.youtube.com/watch?v=x7ugbWKcZ-M](https://www.youtube.com/watch?v=x7ugbWKcZ-M)
 
 
 ![NeoResearchTeam](/assets/images/DevConTeam1.jpg)
