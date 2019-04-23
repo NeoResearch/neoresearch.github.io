@@ -19,9 +19,4 @@ In the first day of the event NeoResearch co-founders, Vitor Nazário and Vitor 
 The event was attended togheter with NEO Team: Malcolm Lerider, Tamar Salant and Fernando Diaz.
 
 
-BLS: [https://chile2018.blockchainsummit.la/](https://chile2018.blockchainsummit.la/)
-
-![NeoResearchTeam](/assets/images/DevConTeam1.jpg)
-
-NEO DevCon 2019:
-[https://devcon.neo.org](https://devcon.neo.org)
+Blockchain Summit Latam 2018: [https://chile2018.blockchainsummit.la/](https://chile2018.blockchainsummit.la/)
