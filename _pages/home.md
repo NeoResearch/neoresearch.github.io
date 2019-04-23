@@ -1,5 +1,6 @@
 ---
 layout: splash
+excerpt: "Developing groundbreaking research for Neo Blockchain Ecosystem."
 permalink: /
 header:
   overlay_color: "#000"
