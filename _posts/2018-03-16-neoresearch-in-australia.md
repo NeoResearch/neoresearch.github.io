@@ -29,6 +29,6 @@ Pictures from Sidney:
 ![NeoResearchTeamSidney](/assets/images/neo_sidney4_march.jpeg)
 ![NeoResearchTeamSidney](/assets/images/neo_sidney5_march.jpeg)
 
-Neo News Today: https://neonewstoday.com/sydney/
+Neo News Today: [https://neonewstoday.com/sydney/](https://neonewstoday.com/sydney/)
 
 # Australia
