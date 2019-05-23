@@ -24,6 +24,8 @@ The meetup had the presence of Tamar Salant and Malcolm Lerider from NEO R&D Tea
 ![Discussions panel: Innovation and Blockchain. Mediator: Fernando Barueco and speakers. São Paulo, 2018 - I](/assets/images/SPMeetup/SPmeetup6.jpg)
 ![Discussions panel: Innovation and Blockchain. Mediator: Fernando Barueco and speakers. São Paulo, 2018 - II]](/assets/images/SPMeetup/SPmeetup7.jpg)
 
+[https://neonewstoday.com/events/sao-paulo-neo-community-meetup/](https://neonewstoday.com/events/sao-paulo-neo-community-meetup/)
+
 [https://www.bomesp.org/](https://www.bomesp.org/)
 
 [https://ccbc.org.br/camara-comercio-brasil-canada/](https://ccbc.org.br/camara-comercio-brasil-canada/)
