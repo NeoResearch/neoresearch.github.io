@@ -15,7 +15,7 @@ excerpt: >
 # <a href="/about/" class="btn btn--light-outline btn--small"><i class='fa fa-globe'></i> About</a> -->
 
 feature_row:
-  - image_path: /assets/images/yellowPaperCover.png
+  - image_path: /assets/images/yellowpaper/yellowPaperCover.png
     alt: "customizable"
     title: "Community Yellow Paper: A Technical Specification for NEO Blockchain"
     excerpt: "Check last technical updates at [https://github.com/NeoResearch/yellowpaper/](https://github.com/NeoResearch/yellowpaper/)"

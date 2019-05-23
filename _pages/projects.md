@@ -5,7 +5,7 @@ excerpt: "Exemplary projects created through collaborative or individual efforts
 # last_modified_at: 2018-10-30T12:04:24-04:00
 classes: wide
 feature_row2:
-  - image_path: /assets/images/neocompiler.png
+  - image_path: //images/Projects_Cover_Images/neocompiler.png
     alt: "NeoCompiler"
     title: "NeoCompiler Eco"
     excerpt: 'NeoCompiler Eco - Easy way to code and test your Smart Contracts'
@@ -13,7 +13,7 @@ feature_row2:
     btn_label: "Try it!"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/smacco.png
+  - image_path: //images/Projects_Cover_Images/smacco.png
     alt: "placeholder image 2"
     title: "SMACCO"
     excerpt: 'The SMart ACcount COmposer for NEO Blockchain'
@@ -55,7 +55,7 @@ In this sense, we encourage members to work in partnership with [Neo Core develo
 * [Neo Dappgram](https://neoresearch.io/dappgram/#/), providing fluxogram diagram for Neo Dapps. This allows public drawing of fluxograms for Neo AVM.
 
 <div style="text-align:center">
-<img src="/assets/images/dappgram.png" alt="dappgram" style="width:100px;"/>
+<img src="/assets/images/Projects_Cover_Images/dappgram.png" alt="dappgram" style="width:100px;"/>
 </div>
 
 {% include feature_row id="feature_dappgram" type="center" %}
