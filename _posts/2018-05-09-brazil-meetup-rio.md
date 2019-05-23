@@ -10,32 +10,30 @@ tags:
 toc: true
 ---
 
-On May 12 NeoResearch Team organized a open meetup on Rio de Janeiro/Brazil.
+On May 12 NeoResearch Team organized a open Meetup on Rio de Janeiro/Brazil in an coworking atmosphere and a collaborative meeting.
 
-![Banner NEO](/assets/images/RioMeetup11.jpg)
-
-Alexandre Barbosa led the ceremony.
-
-The lectures were conducted by:
+Alexandre Barbosa led the ceremony and the lectures were conducted by:
 - NEO Team Tamar Salant and Malcolm Lerider, who presented  
 - Representatives of ITS Rio, Luiza Mesquita, Gabriel Aleixo and Marco Konopacki.
 - NeoResearch Developers Igor Machado and Vitor Nazário, presented the NeoResearch compiler tools.
 - Rodrigo Benez from SimpliPay.
 
-This meeting audiance included people interested in the theme, representatives of Brazilian startup and developers.
+The udiance included people interested in the theme, representatives of Brazilian startup and developers.
 
-It was an exchange of knowledge and pleasure to bring this theme for the community.
-This meeting was supported by NeoResearch in partnership with ITS Rio.
+This meeting was supported by NeoResearch in partnership with ITS Rio and was an exchange of knowledge and pleasure to bring this theme for the community.
 
-![Alexandre](/assets/images/RioMeetup1.jpg)
-![Igor and Vitor](/assets/images/RioMeetup2.jpg)
-![Igor and Vitor](/assets/images/RioMeetup3.jpg)
-![Igor and Vitor](/assets/images/RioMeetup4.jpg)
-![Tamar and Malcolm](/assets/images/RioMeetup5.jpg)
-![Luiza and Gabriel](/assets/images/RioMeetup6.jpg)
-![Marco](/assets/images/RioMeetup7.jpg)
-![Coffee break](/assets/images/RioMeetup8.jpg)
-![Coffee break](/assets/images/RioMeetup9.jpg)
-![Coffee break](/assets/images/RioMeetup10.jpg)
+[https://neonewstoday.com/events/brazil-neo-event-may-12th/](https://neonewstoday.com/events/brazil-neo-event-may-12th/)
+
+![Alexandre Barbosa opening the NEO Meetup in Rio de Janeiro, 2018.](/assets/images/RioMeetup/RioMeetup1.jpg)
+![Vitor Coelho and Igor Coelho Workshop – Programming Smart Contracts with NeoCompiler Eco (system). Rio de Janeiro, 2018 - II.](/assets/images/RioMeetup/RioMeetup2.jpg)
+![Vitor Coelho and Igor Coelho Workshop – Programming Smart Contracts with NeoCompiler Eco (system). Rio de Janeiro, 2018 - II.](/assets/images/RioMeetup/RioMeetup3.jpg)
+![Vitor Coelho and Igor Coelho Workshop – Programming Smart Contracts with NeoCompiler Eco (system). Rio de Janeiro, 2018 - III.](/assets/images/RioMeetup/RioMeetup4.jpg)
+![Introduction to NEO Smart Economy: Malcolm Lerider and Tamar Salant. Rio de Janeiro, 2018.](/assets/images/RioMeetup/RioMeetup5.jpg)
+![ITS Rio and Mudamos: Luiza Mesquita, Marco Kopanacki and Gabriel Aleixo. Rio de Janeiro, 2018.](/assets/images/RioMeetup/RioMeetup7.jpg)
+![Hanging out and networking. Rio de Janeiro, 2018.](/assets/images/RioMeetup/RioMeetup8.jpg)
+![Coffee break. Rio de Janeiro, 2018.](/assets/images/RioMeetup/RioMeetup9.jpg)
+![Coffee break. Rio de Janeiro, 2018.](/assets/images/RioMeetup/RioMeetup10.jpg)
+
+[https://itsrio.org/en/comunicados/neo-smart-economy-and-the-new-blockchain-applications-in-brazil/](https://itsrio.org/en/comunicados/neo-smart-economy-and-the-new-blockchain-applications-in-brazil/)
 
 # Rio de Janeiro Meetup - Neo and ITS Rio
