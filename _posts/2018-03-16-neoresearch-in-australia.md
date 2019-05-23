@@ -19,15 +19,15 @@ It was NEO's first time in Australia!
 In Melbourne, Vitor Nazario and Igor Coelho held an workshop presenting the technologies used by NeoResearch.
 
 Pictures from Melbourne:
-![NeoResearchTeamMelbourne](/assets/images/neo_melbourne1_march.jpeg)
-![NeoResearchTeamMelbourne](/assets/images/neo_melbourne1_march.jpeg)
+![First NeoResearch presentation in Melbourne - I](/assets/images/Melbourne_Meetup/neo_melbourne1_march.jpeg)
+![First NeoResearch presentation in Melbourne - II](/assets/images/Melbourne_Meetup/neo_melbourne1_march.jpeg)
 
 Pictures from Sidney:
-![NeoResearchTeamSidney](/assets/images/neo_sidney1_march.jpeg)
-![NeoResearchTeamSidney](/assets/images/neo_sidney2_march.jpeg)
-![NeoResearchTeamSidney](/assets/images/neo_sidney3_march.jpeg)
-![NeoResearchTeamSidney](/assets/images/neo_sidney4_march.jpeg)
-![NeoResearchTeamSidney](/assets/images/neo_sidney5_march.jpeg)
+![NeoResearch presentation in Sidney, 2018 - I](/assets/images/Sidney_Meetup/neo_sidney1_march.jpeg)
+![NeoResearch presentation in Sidney, 2018 - II](/assets/images/Sidney_Meetup/neo_sidney2_march.jpeg)
+![NeoResearch presentation in Sidney, 2018 - III](/assets/images/Sidney_Meetup/neo_sidney3_march.jpeg)
+![NeoResearch presentation in Sidney, 2018 - A hello for some of NEO presenters](/assets/images/Sidney_Meetup/neo_sidney4_march.jpeg)
+![NeoResearch presentation in Sidney, 2018 - V](/assets/images/Sidney_Meetup/neo_sidney5_march.jpeg)
 
 Neo News Today: [https://neonewstoday.com/sydney/](https://neonewstoday.com/sydney/)
 
