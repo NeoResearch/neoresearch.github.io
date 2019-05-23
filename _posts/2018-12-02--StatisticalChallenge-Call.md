@@ -70,3 +70,8 @@ Participants are encouraged to release their researching spirit, being critic an
 
 1. Reports are strictly expected to be submitted until 15th March, 2019;
 1. Prizes will be awarded in the beginning of May.
+
+# Results
+
+Two registration but no reports were submitted.
+Statistical challenge was finished without any reward.
