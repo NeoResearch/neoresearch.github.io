@@ -22,7 +22,7 @@ The meetup had the presence of Tamar Salant and Malcolm Lerider from NEO R&D Tea
 ![Malcolm Lerider (Neo R&D) presentation about NEO Smart Economy. São Paulo, 2018](/assets/images/SPMeetup/SPmeetup4.jpg)
 ![Tamar Salant (Neo R&D) presentation about NEO Smart Economy. São Paulo, 2018](/assets/images/SPMeetup/SPmeetup5.jpg)
 ![Discussions panel: Innovation and Blockchain. Mediator: Fernando Barueco and speakers. São Paulo, 2018 - I](/assets/images/SPMeetup/SPmeetup6.jpg)
-![Discussions panel: Innovation and Blockchain. Mediator: Fernando Barueco and speakers. São Paulo, 2018 - II]](/assets/images/SPMeetup/SPmeetup7.jpg)
+![Discussions panel: Innovation and Blockchain. Mediator: Fernando Barueco and speakers. São Paulo, 2018 - II](/assets/images/SPMeetup/SPmeetup7.jpg)
 
 [https://neonewstoday.com/events/sao-paulo-neo-community-meetup/](https://neonewstoday.com/events/sao-paulo-neo-community-meetup/)
 
