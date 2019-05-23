@@ -21,4 +21,4 @@ did during these last months by motivating [Pull Request 426](https://github.com
 We wish everyone a Merry Christmas with Scientific transformation in all our Ecosystem, such
 as our adorable butterfly.
 
-![GemCut Xmas Ball](/assets/images/neo-research-christmas-ny-reduced.jpg)
+![GemCut Xmas Ball](/assets/images/GemCut_Arts/neo-research-christmas-ny-reduced.jpg)
