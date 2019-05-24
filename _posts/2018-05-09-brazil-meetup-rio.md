@@ -16,7 +16,7 @@ Alexandre Barbosa led the ceremony and the lectures were conducted by:
 - NEO Team Tamar Salant and Malcolm Lerider, who presented  
 - Representatives of ITS Rio, Luiza Mesquita, Gabriel Aleixo and Marco Konopacki.
 - NeoResearch Developers Igor Machado and Vitor Nazário, presented the NeoResearch compiler tools.
-- Rodrigo Benez from SimpliPay.
+- Rodrigo Benez from SimplePay.
 
 The udiance included people interested in the theme, representatives of Brazilian startup and developers.
 
