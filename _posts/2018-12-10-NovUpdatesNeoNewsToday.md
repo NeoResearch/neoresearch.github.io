@@ -7,7 +7,8 @@ tags:
   - NeoNewsToday
   - github
   - pull request
-toc: true
+classes: wide  
+toc: false
 ---
 
 Following the previous post talking about the [ODBFT improvements](/news/odbft/)

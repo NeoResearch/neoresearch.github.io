@@ -8,7 +8,7 @@ tags:
   - gemcut
   - marketing
   - design
-toc: true
+toc: false
 ---
 
 We would like to thanks [Gemcut.io team](http://gemcut.io/) for this nice design.

@@ -10,7 +10,8 @@ tags:
   - NeoResearch
   - Blockchain
   - News
-toc: true
+Classes: wide
+toc: false
 ---
 
 On February 16 and 17 NeoResearch Team was present on NEO DevCon 2019 - Seattle.
@@ -29,7 +30,7 @@ Vitor Nazário and Igor Machado gave an interview to Brett Rhodes from the NEO N
 [https://www.youtube.com/watch?v=x7ugbWKcZ-M](https://www.youtube.com/watch?v=x7ugbWKcZ-M)
 
 
-![NeoResearchTeam](/assets/images/NEO_DevCon_2019/DevConTeam1.jpg)
+![NeoResearchTeam](/assets/images/2019_02_NEO_DevCon_Seattle/DevConTeam1.jpg)
 
 NEO DevCon 2019:
 [https://devcon.neo.org](https://devcon.neo.org)

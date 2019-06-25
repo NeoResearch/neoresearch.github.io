@@ -10,7 +10,7 @@ tags:
   - Developers
   - NeoResearch
   - News
-toc: true
+toc: false
 ---
 
 NeoResearch Team represented NEO at two meetups held in Montevideo/ Uruguay, on 3rd and 5th of September.
