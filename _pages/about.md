@@ -2,7 +2,6 @@
 permalink: /about/
 title: "NeoResearch community"
 excerpt: "Developing groundbreaking research for Neo Blockchain Ecosystem."
-[<i class="fab fa-twitter"></i>](https://twitter.com/NeoResearch_NEO){: .btn .btn--twitter}
 # last_modified_at: 2018-10-30T12:04:24-04:00
 toc: true
 ---
