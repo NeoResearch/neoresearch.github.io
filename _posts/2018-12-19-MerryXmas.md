@@ -8,6 +8,7 @@ tags:
   - gemcut
   - marketing
   - design
+classes: wide  
 toc: false
 ---
 

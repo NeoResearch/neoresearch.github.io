@@ -12,4 +12,4 @@ toc: false
 ---
 
 Following the previous post talking about the [ODBFT improvements](/news/odbft/)
-The community NeoNewsToday is still with eyes on the current PR 426 and other NeoResearch focused projects: [https://neonewstoday.com/development/november-community-development-summary/](https://neonewstoday.com/development/november-community-development-summary/)
+The community NeoNewsToday is still with eyes on the current PR 426 and other NeoResearch focused projects: [https://neonewstoday.com/development/november-community-development-summary/](https://neonewstoday.com/development/november-community-development-summary/).

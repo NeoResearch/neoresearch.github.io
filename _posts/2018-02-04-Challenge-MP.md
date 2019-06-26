@@ -1,13 +1,14 @@
 ---
 title:  "Mission Impossible IV: Mission Impossible IV: Open Challenge Call"
-last_modified_at: 2018-05-14T16:01:04-04:00
+last_modified_at: 2018-02-14T16:01:04-04:00
 categories:
   - challenges
 tags:
   - call
   - reward
   - challenge
-toc: true
+classes: wide
+toc: false
 ---
 ## Challenge Description
 
