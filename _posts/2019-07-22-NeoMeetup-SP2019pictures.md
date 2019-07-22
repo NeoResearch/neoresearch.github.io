@@ -47,11 +47,11 @@ The event was a happy moment for the teams, granting many positive feedbacks fro
 
 
 ## Support:
-- NeoResearch
-- Simpli [http://simplipay.com.br/](http://simplipay.com.br/)
-- Blockchain Academy [https://blockchainacademy.com.br/team/alex-braz/?lang=en](https://blockchainacademy.com.br/team/alex-braz/?lang=en)
-- NEO Smart Enconomy [https://neo.org/](https://neo.org/)
+- [Simpli](https://simplipay.com.br/)
+- [NeoResearch](https://neoresearch.io)
+- [Blockchain Academy](https://blockchainacademy.com.br/team/alex-braz/?lang=en)
+- [NEO Smart Economy](https://neo.org/)
 
-## Event news around the world:
+## News around the world:
 
 [https://neonewstoday.com/general/neo-community-event-in-brazil-attracts-new-and-veteran-blockchain-industry-participants/](https://neonewstoday.com/general/neo-community-event-in-brazil-attracts-new-and-veteran-blockchain-industry-participants/)
