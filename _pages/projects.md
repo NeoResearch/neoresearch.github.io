@@ -5,7 +5,7 @@ excerpt: "Exemplary projects created through collaborative or individual efforts
 # last_modified_at: 2018-10-30T12:04:24-04:00
 classes: wide
 feature_row2:
-  - image_path: //images/Projects_Cover_Images/neocompiler.png
+  - image_path: /assets/images/Projects_Cover_Images/neocompiler.png
     alt: "NeoCompiler"
     title: "NeoCompiler Eco"
     excerpt: 'NeoCompiler Eco - Easy way to code and test your Smart Contracts'
@@ -13,7 +13,7 @@ feature_row2:
     btn_label: "Try it!"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: //images/Projects_Cover_Images/smacco.png
+  - image_path: /assets/images/Projects_Cover_Images/smacco.png
     alt: "placeholder image 2"
     title: "SMACCO"
     excerpt: 'The SMart ACcount COmposer for NEO Blockchain'
@@ -41,6 +41,10 @@ other contributions are directed submitted on [neo-project core github](https://
 
 In order to achieve our goals of making Neo ecosystem a top scientifically engaged Blockchain, NeoResearch tries to engage members and contributors to focus on cutting-edge and precise contributions to the Neo Core libraries.
 In this sense, we encourage members to work in partnership with [Neo Core developers](https://github.com/orgs/neo-project/people), as well as connected with other developers communities, such as: [City Of Zion](http://cityofzion.io/), [NewEconoLabs](https://nel.group/), [AmazoNeo](https://amazoneo.la/) and [SPCC Neo](https://nspcc.ru/).
+
+## Summary of projects/contributions
+
+* 2018-2019 16 key contributions can be seen available [here](https://github.com/NeoResearch/governance/blob/master/Reports/Report/2018_2019/2018_2019_NeoResearch_Report_v1.md).
 
 ## Key projects
 

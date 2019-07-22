@@ -15,7 +15,7 @@ excerpt: >
 # <a href="/about/" class="btn btn--light-outline btn--small"><i class='fa fa-globe'></i> About</a> -->
 
 feature_row:
-  - image_path: /assets/images/yellowpaper/yellowPaperCover.png
+  - image_path: /assets/yellowpaper/yellowPaperCover.png
     alt: "customizable"
     title: "Community Yellow Paper: A Technical Specification for NEO Blockchain"
     excerpt: "Check last technical updates at [https://github.com/NeoResearch/yellowpaper/](https://github.com/NeoResearch/yellowpaper/)"
@@ -49,7 +49,7 @@ feature_row:
     excerpt: "Introducing Vitor and Igor Coelho, founders of NeoResearch"
     url: "https://neonewstoday.com/general/introducing-vitor-and-igor-coelho-of-neoresearch/"
     btn_class: "btn--primary"
-    btn_label: "Read on NeoNewsToday"
+    btn_label: "NEO News Today"
 
 
 ---
