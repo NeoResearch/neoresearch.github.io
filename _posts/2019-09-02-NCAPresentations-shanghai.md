@@ -126,11 +126,11 @@ The day started with an office tour at NGD Shanghai Office whre all the communit
 - *Shanghai City tour*
 
 
-**NCA 2019 video:** [https://youtu.be/lKdKlzTz3UQ](https://youtu.be/lKdKlzTz3UQ)
+- [**NCA 2019 video:**](https://youtu.be/lKdKlzTz3UQ)
 
 
 ## Support:
-- NEO Smart Enconomy [https://neo.org/](https://neo.org/)
+- [NEO Smart Enconomy](https://neo.org/)
 
 ## Event news around the world:
 [https://neo.org/event/details/68](https://neo.org/event/details/68)
