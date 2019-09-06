@@ -46,12 +46,12 @@ Communities groups and core devs around the world:
 - Alien works
 - NEO Blockchain
 
-
-[**NCA 2019 video:**](https://youtu.be/lKdKlzTz3UQ)
+**NCA 2019 video:**
+[https://youtu.be/lKdKlzTz3UQ](https://youtu.be/lKdKlzTz3UQ)
 
 
 ## Support:
-- [NEO Smart Enconomy](https://neo.org/)
+- NEO Smart Enconomy [https://neo.org/](https://neo.org/)
 
 ## Event news around the world:
 [https://neo.org/event/details/68](https://neo.org/event/details/68)
