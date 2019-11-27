@@ -50,6 +50,8 @@ Vitor Nazário Coelho and Wang Yong Wiang once again conducted the presentation 
 ![Yongwiang_speech](/assets/images/2019_11_WanginBrazil/UFOP_13.jpeg)
 ![Vitor_Wang_Agnaldo](/assets/images/2019_11_WanginBrazil/UFOP_3.jpeg)
 
+/assets/images/2019_11_WanginBrazil
+
 Both meetups brought together several university students, professors and researchers interested in the subject.
 
 [**MORE PHOTOS ON FLICKR**](https://flic.kr/s/aHsmJDDDp8)

@@ -1,6 +1,6 @@
 ---
 title:  "NCA Shanghai 2019"
-last_modified_at: 2019-09-03T16:01:04-04:00
+last_modified_at: 2019-09-04T16:01:04-04:00
 categories:
   - events
 tags:
@@ -15,7 +15,7 @@ classes: wide
 toc: false
 excerpt: "NeoResearch Team presentation at **NEO Community Assembly 2019**"
 ---
-The NCA are programing for all the first week of September and the Schedule is the sequence.
+The NEO Community Assembly are programing for all the first week of September and the Schedule is the sequence.
 
 On 2nd of September Vitor and Igor conducted a talk. Vitor approached about dBFT 2.0 & Experiences of NeoResearch. Igor led a talk in the theme od NeoResearch Community Advances & Future Directions.
 
