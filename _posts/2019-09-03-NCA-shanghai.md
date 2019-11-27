@@ -1,6 +1,6 @@
 ---
 title:  "NEO Community Assembly 2019 - Shanghai/China"
-last_modified_at: 2019-09-02T16:01:04-04:00
+last_modified_at: 2019-09-04T16:01:04-04:00
 categories:
   - events
 tags:
