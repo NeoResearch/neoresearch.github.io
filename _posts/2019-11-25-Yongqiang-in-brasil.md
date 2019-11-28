@@ -11,7 +11,7 @@ tags:
   - News
 classes: wide  
 toc: false
-excerpt: "NeoResearch Team in the **NEO Community Assembly 2019** in Shanghai/China, July 02nd - 2019."
+excerpt: "Neo Research Team are receiving in Brazil the NEO Global Development Shanghai Researcher **Wang Yong Qiang**."
 ---
 
 Neo Research Team are receiving in Brazil the NEO Global Development Shanghai Researcher **Wang Yong Qiang**.
