@@ -11,10 +11,10 @@ tags:
   - News
 classes: wide  
 toc: false
-excerpt: "Neo Research Team are receiving in Brazil the NEO Global Development Shanghai Researcher **Wang Yong Qiang**."
+excerpt: "NeoResearch Team are receiving in Brazil the NEO Global Development Shanghai Researcher, Wang Yong Qiang."
 ---
 
-Neo Research Team are receiving in Brazil the NEO Global Development Shanghai Researcher **Wang Yong Qiang**.
+NeoResearch Team are receiving in Brazil the NEO Global Development Shanghai Researcher, **Wang Yong Qiang**.
 During his stay in Minas Gerais/Brazil, he had the opportunity to gave an speach for two different Federal Universities in Brazil organized by two Professor and Thays Aparecida de Oliveira - NeoResearch Marketing and Media Manager, with more details bellow.
 
 ## Meetups: Blockchain, Ledgers and Smart Contracts.
