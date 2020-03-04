@@ -32,6 +32,8 @@ The article is open access and can be [DOWNLOAD here](https://mdpi.com/1999-5903
 
 ## MDPI Publication
 
+Our article is on the [Neo Community Academic Publications](https://medium.com/@NEO_Council/neo-academy-16978951448d).
+
 ![MDPI FirstPage](/assets/images/2020_01_MDPI-publication/FutureInternet_firstpage.jpg)
 
 Oliveira, T.A.; Gabrich, Y.B.; Ramalhinho, H.; Oliver, M.; Cohen, M.W.; Ochi, L.S.; Gueye, S.; Protti, F.; Pinto, A.A.; Ferreira, D.V.M.; Coelho, I.M.; Coelho, V.N. Mobility, Citizens, Innovation and Technology in Digital and Smart Cities. Future Internet 2020, 12, 22.
