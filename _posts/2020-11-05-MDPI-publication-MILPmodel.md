@@ -12,7 +12,7 @@ tags:
   - Byzantine
 classes: wide  
 toc: false
-excerpt: "Publiished article "
+excerpt: "Published article "
 ---
 
 ## Journal Future Internet Publication
